@@ -1,4 +1,4 @@
-# 
+# secure bitmex trading bot Module | backtesting + price-monitoring offers the most advanced bitmex trading bot, with backtesting and price-monitoring. Ideal for professional
 
 
 
